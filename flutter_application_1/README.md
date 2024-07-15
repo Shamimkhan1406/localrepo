@@ -1,3 +1,5 @@
+made this repo while learning and testing
+
 # flutter_application_1
 
 A new Flutter project.
